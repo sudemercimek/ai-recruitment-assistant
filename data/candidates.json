@@ -1,0 +1,187 @@
+[
+  {
+    "full_name": "Deniz Gökay",
+    "email": "denizgokay@example.com",
+    "skills": ["Python", "SQL" , "Machine Learning" , "FastAPI"],
+    "experience_years": 1.5,
+    "education": "Computer Engineering" ,
+    "projects": [
+      "Customer Churn Prediction",
+      "AI-powered Resume Analyzer"
+    ],
+    "summary":"Junior AI Engineer with experience in Pythın and  machine learning."
+  },
+    {
+    "full_name": "Ece Demir",
+    "email": "ece@example.com",
+    "skills": ["Python", "SQL", "Machine Learning", "Pandas", "Scikit-learn"],
+    "experience_years": 2.0,
+    "education": "Computer Engineering",
+    "projects": ["Customer Segmentation", "Sales Prediction"],
+    "summary": "Junior Data Scientist with practical machine learning and data analysis experience."
+  },
+  {
+    "full_name": "Mert Kaya",
+    "email": "mert@example.com",
+    "skills": ["Python", "REST API", "FastAPI", "Pydantic", "Git/GitHub"],
+    "experience_years": 1.0,
+    "education": "Software Engineering",
+    "projects": ["Task Management API", "Inventory Management System"],
+    "summary": "Junior Software Engineer focused on backend development and API design."
+  },
+  {
+    "full_name": "Zeynep Arslan",
+    "email": "zeynep@example.com",
+    "skills": ["Python", "LLM / Generative AI", "Prompt Engineering", "FastAPI"],
+    "experience_years": 1.5,
+    "education": "Computer Science",
+    "projects": ["AI Chatbot", "Document Question Answering"],
+    "summary": "Junior AI Developer with experience building LLM-powered applications."
+  },
+  {
+    "full_name": "Can Yılmaz",
+    "email": "can@example.com",
+    "skills": ["SQL", "Excel", "Power BI", "Data Analysis"],
+    "experience_years": 2.5,
+    "education": "Management Information Systems",
+    "projects": ["Business Sales Dashboard", "Customer Behavior Analysis"],
+    "summary": "Data Analyst with strong reporting and SQL skills."
+  },
+
+
+  {
+    "full_name": "Elif Şahin",
+    "email": "elif@example.com",
+    "skills": ["Python", "SQL", "REST API", "Machine Learning", "FastAPI"],
+    "experience_years": 2.0,
+    "education": "Software Engineering",
+    "projects": ["Fraud Detection API", "ML Model Deployment"],
+    "summary": "Junior AI Engineer with experience in machine learning and backend API development."
+  },
+  {
+    "full_name": "Burak Aydın",
+    "email": "burak@example.com",
+    "skills": ["Python", "Machine Learning", "Scikit-learn", "Pandas"],
+    "experience_years": 1.0,
+    "education": "Computer Engineering",
+    "projects": ["House Price Prediction", "Customer Churn Analysis"],
+    "summary": "Junior Machine Learning Engineer focused on model development and data preprocessing."
+  },
+  {
+    "full_name": "Derya Koç",
+    "email": "derya@example.com",
+    "skills": ["Python", "SQL", "LLM / Generative AI", "FastAPI", "Pydantic"],
+    "experience_years": 1.5,
+    "education": "Computer Science",
+    "projects": ["AI Resume Assistant", "LLM-based FAQ Application"],
+    "summary": "Junior AI Engineer experienced in building structured LLM applications."
+  },
+  {
+    "full_name": "Emre Yıldız",
+    "email": "emre@example.com",
+    "skills": ["SQL", "Python", "REST API", "Git/GitHub"],
+    "experience_years": 0.5,
+    "education": "Information Technology",
+    "projects": ["Sales Reporting API", "Data Processing Tool"],
+    "summary": "Entry-level developer with foundational Python, SQL and API skills."
+  },
+  {
+    "full_name": "Selin Aksoy",
+    "email": "selin@example.com",
+    "skills": ["Python", "LLM / Generative AI", "Prompt Engineering", "Machine Learning", "SQL"],
+    "experience_years": 3.0,
+    "education": "Artificial Intelligence Engineering",
+    "projects": ["AI Document Assistant", "Text Classification System"],
+    "summary": "Junior AI Developer with experience in NLP, LLM applications and machine learning."
+  },
+    {
+    "full_name": "Ayşe Yılmaz",
+    "email": "ayse@example.com",
+    "skills": ["Python", "SQL", "Machine Learning", "FastAPI", "Pydantic", "Git/GitHub"],
+    "experience_years": 2.0,
+    "education": "Computer Engineering",
+    "projects": ["ML Prediction API", "Customer Segmentation"],
+    "summary": "Junior AI Engineer with experience in machine learning and backend API development."
+  },
+  {
+    "full_name": "Kerem Demir",
+    "email": "kerem@example.com",
+    "skills": ["Python", "LLM / Generative AI", "Prompt Engineering", "REST API", "FastAPI"],
+    "experience_years": 1.5,
+    "education": "Software Engineering",
+    "projects": ["LLM-powered Chatbot", "AI Support Assistant"],
+    "summary": "Junior AI Developer focused on LLM applications and API integration."
+  },
+  {
+    "full_name": "Melis Çelik",
+    "email": "melis@example.com",
+    "skills": ["SQL", "Python", "Pandas", "Scikit-learn", "Machine Learning"],
+    "experience_years": 1.0,
+    "education": "Statistics",
+    "projects": ["Customer Churn Prediction", "Sales Forecasting"],
+    "summary": "Junior Data Scientist with experience in data analysis and predictive modeling."
+  },
+  {
+    "full_name": "Arda Şahin",
+    "email": "arda@example.com",
+    "skills": ["Python", "REST API", "Git/GitHub", "FastAPI"],
+    "experience_years": 0.5,
+    "education": "Software Engineering",
+    "projects": ["Personal Finance API", "Task Tracking Application"],
+    "summary": "Entry-level backend developer with foundational Python and REST API experience."
+  },
+  {
+    "full_name": "Nazlı Acar",
+    "email": "nazli@example.com",
+    "skills": ["Python", "SQL", "Machine Learning", "LLM / Generative AI", "Pydantic"],
+    "experience_years": 2.5,
+    "education": "Artificial Intelligence Engineering",
+    "projects": ["Document Classification", "AI-powered Search Assistant"],
+    "summary": "Junior AI Engineer with experience in machine learning and generative AI projects."
+  },
+  {
+    "full_name": "Okan Yıldırım",
+    "email": "okan@example.com",
+    "skills": ["Python", "SQL", "REST API", "Machine Learning", "FastAPI", "Git/GitHub"],
+    "experience_years": 3.0,
+    "education": "Computer Science",
+    "projects": ["Fraud Detection System", "Model Serving API"],
+    "summary": "Software developer experienced in backend services and machine learning applications."
+  },
+  {
+    "full_name": "İrem Koç",
+    "email": "irem@example.com",
+    "skills": ["Python", "LLM / Generative AI", "Prompt Engineering", "Pydantic"],
+    "experience_years": 1.0,
+    "education": "Computer Engineering",
+    "projects": ["AI Study Assistant", "Text Summarization Tool"],
+    "summary": "Junior developer interested in LLM-powered applications and structured outputs."
+  },
+  {
+    "full_name": "Eren Aksoy",
+    "email": "eren@example.com",
+    "skills": ["Python", "SQL", "Machine Learning", "Pandas", "Scikit-learn", "REST API"],
+    "experience_years": 2.0,
+    "education": "Data Science",
+    "projects": ["Recommendation System", "Customer Risk Prediction"],
+    "summary": "Junior Machine Learning Engineer with data processing and model development experience."
+  },
+  {
+    "full_name": "Ceren Arslan",
+    "email": "ceren@example.com",
+    "skills": ["Python", "FastAPI", "Pydantic", "REST API", "Git/GitHub", "LLM / Generative AI"],
+    "experience_years": 1.5,
+    "education": "Software Engineering",
+    "projects": ["AI Resume Parser", "Document Processing API"],
+    "summary": "Junior AI Engineer focused on backend development and LLM integration."
+  },
+  {
+    "full_name": "Bora Kaya",
+    "email": "bora@example.com",
+    "skills": ["SQL", "Python", "Excel", "Power BI", "Pandas"],
+    "experience_years": 2.5,
+    "education": "Management Information Systems",
+    "projects": ["Business Intelligence Dashboard", "Customer Data Analysis"],
+    "summary": "Data Analyst with experience in SQL, Python and business reporting."
+  }
+]
