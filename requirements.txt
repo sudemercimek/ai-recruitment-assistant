@@ -3,3 +3,5 @@ fastapi
 uvicorn
 python-multipart
 pypdf
+google-genai==3.6.1
+python-dotenv==1.2.4
