@@ -1,10 +1,10 @@
 from app.models.job import JobDescription
 
 junior_ai_engineer_job = JobDescription(
-    title="Junion AI Engineer" ,
+    title="Junior AI Engineer" ,
     description="We are looking for a Junior AI Engineer to develop AI-powered applications." ,
     required_skills=[
-        "Pythın",
+        "Python",
         "SQL",
         "Machine Learning",
         "REST API",
